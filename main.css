@@ -1,0 +1,27 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+#counter {
+    font-size: 10px;
+    font-weight: 600;
+    margin: 3rem auto 1rem auto;
+    color: whitesmoke;
+}
+#user-input {
+    font-size: 10px;
+    text-align: center;
+    width: 15%;
+    margin: 0 1rem;
+    padding: 0.7rem 1.5rem;
+    background-color: whitesmoke;
+}
+#plus, #minus {
+    font-size: 10px;
+    width: 9%; 
+    color: whitesmoke;
+}
